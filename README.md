@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src=".github/assets/cover.png" alt="Parcel Scout v3" width="100%">
-
 # Parcel Scout v3
 
 **Property research agent for North Texas: eight source connectors, four county clerk scrapers, ownership resolution, and a map-first UI.**
@@ -96,7 +94,8 @@ cd frontend && npm install && npm run dev  # map UI on :3000
 ├── scripts/
 │   ├── migrate_duckdb_to_postgres.py
 │   └── migrate_events.py
-└── docker-compose.yml
+├── docker-compose.yml
+└── README.md
 ```
 
 ---
